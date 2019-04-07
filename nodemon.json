@@ -1,0 +1,7 @@
+{
+  "env": {
+      "SERVER_PORT": 4000,
+      "MONGODB_URI": "mongodb://admin:linkme1!@ds131296.mlab.com:31296/dashboard-registry-upload",
+      "JWT_SECRET": "ZV+tlpm9ZcOo07svbiXtZsl2s/UDh7zQ10yYWtZx7ZuObN4dkkwwEdHkqj12eFeTpDwhYIz9wp20IU4OgtF60ZGsrL9LD2tLnd05wyFfwxP1OQDYP1dJkfnd82qmIbLForeRAId4TY1uKY7rbVzsXOANgG1p8o9ad0AJq59Uofl5IWE3G3hscDGWblwGD9GbweNPUXSa29qrzK8xVPNZJbE6+xVp34nGYBVkpRJKPtd24caquttPbWSb8VicZQ1kBe3Emd79YolcSznsyUYFFpIRmii1CM2fK7Khv9kMk003JIi8LCWIkSkAT+T2qQtx1qt9BzewKgpcTKa/3FNmEw=="
+  }
+}
